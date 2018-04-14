@@ -1,3 +1,6 @@
+#authors   1) Daia   Sandu 
+#          2) shiva kumar
+
 from __future__ import division
 path='/home/cruntlyhorses/restnet_test/train'
 import numpy as np
